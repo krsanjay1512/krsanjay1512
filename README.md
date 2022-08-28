@@ -5,13 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/sanjayyadav1512" target="blank"><img src="https://img.shields.io/twitter/follow/sanjayyadav1512?logo=twitter&style=for-the-badge" alt="sanjayyadav1512" /></a> </p>
 
-- 🌱 I’m currently learning **AWS Lambda**
-
-- 💬 Ask me about **.Net**
-
-- 📫 How to reach me **krsanjay1512@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently working on **Web🍃Application⚔**
+- 🌱 I’m currently learning **AWS✅Lambda✨**
+- 💬 Ask me about **.Net&**
+- ⚡ Fun fact **I ❤ to coding 😊 & playing cricket 🏏**
+ 
+<h3 align="left">Connect with me 🕸 :</h3>
 <p align="left">
 <a href="https://twitter.com/sanjayyadav1512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjayyadav1512" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/krsanjayyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/krsanjayyadav" height="30" width="40" /></a>
