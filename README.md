@@ -1,6 +1,7 @@
+<!--[![MasterHead width="4000"](https://user-images.githubusercontent.com/84794705/188279044-6e26d3ff-1bc0-44c5-a074-742b9f7956ab.png)] -->
 <h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
 <h3 align="center">A Software Engineer</h3>
-
+<img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krsanjay1512&label=Profile%20views&color=0e75b6&style=flat" alt="krsanjay1512" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sanjayyadav1512" target="blank"><img src="https://img.shields.io/twitter/follow/sanjayyadav1512?logo=twitter&style=for-the-badge" alt="sanjayyadav1512" /></a> </p>
