@@ -1,4 +1,4 @@
-<p><img src="https://thumbs.gfycat.com/WeightyGrandAmericanbadger-size_restricted.gif" margin="-5" height="300" width="1200"/></p>
+<p><img src="https://thumbs.gfycat.com/WeightyGrandAmericanbadger-size_restricted.gif" margin="-5" height="250" width="1200"/></p>
 <h2 align="center">Hi 👋, I'm Sanjay Kumar</h2>
 <h3 align="center">A Software Engineer</h3>
 <img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
