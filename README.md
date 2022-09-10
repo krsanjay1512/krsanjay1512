@@ -1,5 +1,5 @@
-<!--[![MasterHead width="4000"](https://user-images.githubusercontent.com/84794705/188279044-6e26d3ff-1bc0-44c5-a074-742b9f7956ab.png)] -->
-<h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
+<p><img src="https://thumbs.gfycat.com/WeightyGrandAmericanbadger-size_restricted.gif" margin="-5" height="300" width="1200"/></p>
+<h2 align="center">Hi 👋, I'm Sanjay Kumar</h2>
 <h3 align="center">A Software Engineer</h3>
 <img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krsanjay1512&label=Profile%20views&color=0e75b6&style=flat" alt="krsanjay1512" /> </p>
